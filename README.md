@@ -1,3 +1,5 @@
+> **Practice project, not original work.** This repository follows the Netflix Shows and Movies SQL analysis by [Sharif Athar](https://github.com/SharifAthar/Netflix-Shows-and-Movies-SQL). The questions, queries and dashboard are his. I worked through it to practise SQL and Tableau. All credit to the original author.
+
 # <p align="center">Netflix Shows and Movies Project</p>
 # <p align="center">![Pic](https://i.ibb.co/Q81WwRN/92399716.jpg)</p>
 
